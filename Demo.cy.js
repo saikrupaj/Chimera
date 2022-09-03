@@ -16,7 +16,7 @@ it('Login',function()
     cy.wait(5000)
 })
 
-xit('Add Student',function()
+it('Add Student',function()
 {   
     cy.get('#YourStudents').click()
     cy.wait(5000)
