@@ -4,7 +4,7 @@ Jay Fowkes
 
 242070233
 
-xit dont want to run the test method
+xit dont want to run the test method/it.skip
 
 
 
@@ -12,3 +12,6 @@ xit dont want to run the test method
 #mat-select-0 > .mat-select-trigger > .mat-select-value > .mat-select-placeholder
 
 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
+
+
+report//https://codenboxautomationlab.com/generate-cypress-mochawesome-reporter/
